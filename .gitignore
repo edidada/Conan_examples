@@ -48,6 +48,7 @@ libraries/poco/md5/build/*
 
 # IDE
 .idea/*
+.cmake-build-debug/*
 .project
 .pydevproject
 .settings/*
