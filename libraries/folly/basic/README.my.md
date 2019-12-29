@@ -1,8 +1,9 @@
 # my
 
-conanRelease编译出错
+Linux下载依赖，编译成功
+conanRelease运行出错
 
-进Debug编译看看，还是失败
+进Debug运行看看，还是失败
 
 ```shell
 
