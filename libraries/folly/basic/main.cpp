@@ -9,6 +9,7 @@
 
 static void print_uri(const folly::fbstring& value) {
     const folly::Uri uri(value);
+//    const auto authority = folly::format("The authority from {} ", uri.fbstr());
     const auto authority = folly::format("The authority from {} is {}", uri.fbstr(), uri.authority());
     std::cout << authority << std::endl;
 }

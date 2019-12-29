@@ -46,6 +46,13 @@ libraries/protobuf/serialization/build/*
 libraries/folly/basic/build/*
 libraries/poco/md5/build/*
 
+libraries/protobuf/serialization/.idea/*
+libraries/folly/basic/.idea/*
+libraries/poco/md5/.idea/*
+
+libraries/protobuf/serialization/cmake-build-debug/*
+libraries/folly/basic/cmake-build-debug/*
+libraries/poco/md5/cmake-build-debug/*
 # IDE
 .idea/*
 .cmake-build-debug/*
